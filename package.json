@@ -1,0 +1,10 @@
+{
+  "name": "pomotroid-site-blocker",
+  "version": "1.0.0",
+  "description": "a site blocker that connects to a local pomotroid instance",
+  "main": "./src/index.js",
+  "repository": "https://github.com/TCWTEAM/pomotroid-site-blocker",
+  "author": "TCWTEAM <x@ehx.gg>",
+  "license": "MIT",
+  "private": false
+}
